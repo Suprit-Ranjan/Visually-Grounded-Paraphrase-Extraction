@@ -1,3 +1,3 @@
 # Visually-Grounded-Paraphrase-Extraction
 software requirements specification
-,Paraphrase extraction 
+, Paraphrase extraction 
